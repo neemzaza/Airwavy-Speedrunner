@@ -1,4 +1,4 @@
-# Airwavy-Speedrunner
+# Tuwavy-Speedrunner
 
 This is WIP Completed Speedrunner plugin.
 I not recommended to use on big server.
